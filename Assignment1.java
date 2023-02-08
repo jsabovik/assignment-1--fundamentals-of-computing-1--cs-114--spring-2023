@@ -3,10 +3,10 @@
 // John Sabovik
 // CS114
 // 2/5/23
-/* Description: The program print the intials, then takes a user input of degrees fahrenheit and
+/* Description: The program prints the initials, then takes a user input of degrees fahrenheit and
    converts it to celsius, then takes a 5 character string, then cuts the beginning and last letter
-   and reverses it, generates a random number, and lastly prints the degrees celsies, reversed string,
-   and random number together
+   and reverses it, generates a random number, and lastly prints the degrees celsius, reversed string,
+   and random number together.
 */
 // *****************************************************
 import java.util.Scanner;
